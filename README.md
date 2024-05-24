@@ -16,7 +16,7 @@ npm start
 
 ### Return all Orders
 
-To test the /orders path, we can simply navigate to http://localhost:3000/orders in a browser. The data should appear on the screen.
+To test the /orders path, we can simply navigate to <http://localhost:3000/orders> in a browser. The data should appear on the screen.
 
 Otherwise you can run the following command on curl.
 
